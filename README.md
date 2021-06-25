@@ -4,4 +4,5 @@ The dataset of images was collected online from different sources as well as man
 Total number of images were 3000 (2200 in training, 400 in validation and 400 in testing).
 Mean Average Precision metric (mAP) for yolov3 yield 98.26%, yolov3-tiny yield 93.92% and yolov4 yield 98.26% in training.
 Test images after processing:
+
 ![pred11](https://user-images.githubusercontent.com/85169246/123384700-5876ae80-d5b2-11eb-9445-9d50c4b716e9.jpg)
