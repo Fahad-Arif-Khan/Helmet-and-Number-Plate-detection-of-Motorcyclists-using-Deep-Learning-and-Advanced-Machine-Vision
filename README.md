@@ -6,3 +6,9 @@ Mean Average Precision metric (mAP) for yolov3 yield 98.26%, yolov3-tiny yield 9
 Test images after processing:
 
 ![pred11](https://user-images.githubusercontent.com/85169246/123384700-5876ae80-d5b2-11eb-9445-9d50c4b716e9.jpg)
+![pred12](https://user-images.githubusercontent.com/85169246/123384928-9d024a00-d5b2-11eb-8ed6-bc103ea4bbf5.jpg)
+![pred20](https://user-images.githubusercontent.com/85169246/123384938-a25f9480-d5b2-11eb-89f4-8b24aeac4dd6.jpg)
+![pred39](https://user-images.githubusercontent.com/85169246/123384950-a68bb200-d5b2-11eb-8c6b-9a0bb9bcf146.jpg)
+![pred46](https://user-images.githubusercontent.com/85169246/123384961-aa1f3900-d5b2-11eb-9e81-2c51be9abc12.jpg)
+![pred86](https://user-images.githubusercontent.com/85169246/123384993-b1dedd80-d5b2-11eb-973f-1bbc6b85f7a4.jpg)
+![pred122](https://user-images.githubusercontent.com/85169246/123385003-b4413780-d5b2-11eb-8fff-578782d7f17d.jpg)
